@@ -20,7 +20,7 @@
 
 ## Overview
 
-**PDF Extractor by Prosecs** is a sleek, feature-rich desktop application built for Windows that lets you import PDF documents, preview them page-by-page, and export/convert them into multiple formats — all wrapped in a stunning dark "liquid glass" UI.
+**PDF Extractor by Fest** is a sleek, feature-rich desktop application built for Windows that lets you import PDF documents, preview them page-by-page, and export/convert them into multiple formats — all wrapped in a stunning dark "liquid glass" UI.
 
 No cloud uploads. No subscriptions. Everything runs locally on your machine.
 
