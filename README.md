@@ -2,7 +2,7 @@
   <img src="/1362745.png" alt="PDF Extractor by Fest" width="120" height="120" style="border-radius: 20px;" />
 </p>
 
-<h1 align="center">PDF Extractor by Prosecs</h1>
+<h1 align="center">PDF Extractor by Fest</h1>
 
 <p align="center">
   <strong>A premium Windows desktop application for extracting, previewing, and converting PDF files.</strong>
