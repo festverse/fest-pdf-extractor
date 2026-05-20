@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/1362745.png" alt="PDF Extractor by Prosecs" width="120" height="120" style="border-radius: 20px;" />
+  <img src="/1362745.png" alt="PDF Extractor by Fest" width="120" height="120" style="border-radius: 20px;" />
 </p>
 
 <h1 align="center">PDF Extractor by Prosecs</h1>
@@ -163,5 +163,5 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 <p align="center">
-  Built with care by <strong>Prosecs</strong>
+  Built with care by <strong>Fest</strong>
 </p>
